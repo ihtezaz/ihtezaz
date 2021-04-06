@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ihtezaz
+- 👀 I’m interested in Frontend Web Developemnt
+- 🌱 I’m currently learning to code a few languages 
+- 💞️ I’m looking to collaborate on worpdress websites 
+- 📫 How to reach me: email - ite_manunited_@hotmail.com
